@@ -1,0 +1,39 @@
+# Unity generated #
+# =============== #
+Temp/
+obj/
+Library/
+Build/
+AssetBundles/
+.gradle/
+.vs/
+.vscode/
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.obj
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.csproj
+*.unity3d
+*.zip
+*.DS_Store
+Assets/Resources/version.txt
+ProjectSettings/ProjectSettings.asset
+
+girlglobe_cbt/Assets/AssetBundleResources/UI/Mat.meta
